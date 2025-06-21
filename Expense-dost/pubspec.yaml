@@ -1,0 +1,47 @@
+name: expence_dost
+description: "A new Flutter project."
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  
+  flutter_svg: ^2.0.4
+  firebase_core: ^2.22.0
+  cloud_firestore: ^4.13.1
+  firebase_auth: ^4.6.3
+  firebase_storage: ^11.2.4
+  google_fonts: ^6.1.0
+  google_nav_bar: ^5.0.6
+  bottom_navy_bar: ^6.0.0
+  fluttertoast: ^8.2.4
+  get_storage: ^2.1.1
+  intl: ^0.17.0
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+ 

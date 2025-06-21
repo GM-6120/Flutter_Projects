@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895626695239",
+    "project_id": "expence-dost",
+    "storage_bucket": "expence-dost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895626695239:android:7019dae6999d333f9fd762",
+        "android_client_info": {
+          "package_name": "com.example.expence_dost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrspPR5fFd1iumx7XaLE4TOODTK5WDiAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
