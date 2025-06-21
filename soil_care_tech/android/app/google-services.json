@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147487267787",
+    "project_id": "soil-care-tech-a0428",
+    "storage_bucket": "soil-care-tech-a0428.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147487267787:android:dc1f2bb0d214048a3ab44e",
+        "android_client_info": {
+          "package_name": "com.example.soil_care_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZhlqI41pciEvqCG4FXNm5tubw1AI9U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
