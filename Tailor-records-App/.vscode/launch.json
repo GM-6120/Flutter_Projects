@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "darzi_app",
+            "cwd": "darzi_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "darzi_app (profile mode)",
+            "cwd": "darzi_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "darzi_app (release mode)",
+            "cwd": "darzi_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

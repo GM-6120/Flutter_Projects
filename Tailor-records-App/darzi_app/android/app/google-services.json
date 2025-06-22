@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995464969159",
+    "project_id": "digital-darzi-3c619",
+    "storage_bucket": "digital-darzi-3c619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995464969159:android:e9c12f4efa81036c77b7e2",
+        "android_client_info": {
+          "package_name": "com.example.darzi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9dDMnwBo6DAUl-1YB0YYTWDIBlkJWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
